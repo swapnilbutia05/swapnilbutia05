@@ -1,4 +1,4 @@
- Hi there I'm Swapnil Butia 👋
+<b> Hi there I'm Swapnil Butia </b>👋
 
 - 🔭 I’m currently working on Django
 - 🌱 I’m currently learning ...
@@ -10,4 +10,4 @@
 - ⚡ Fun fact: ...
 
 
-<img src= "https://github-readme-stats.vercel.app/api?username=swapnilbutia05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src= "https://github-readme-stats.vercel.app/api?username=swapnilbutia05&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=FFFF00">
