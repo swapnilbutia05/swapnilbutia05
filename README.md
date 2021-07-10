@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Django
 - 💬 Ask me about Django, Html, Css, Flutter
-- 📫 How to reach me: https://swapnilbutia.netlify.app
+- 📫 How to reach me: https://swapnilbutia05.netlify.app
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Is it mandatory ?
 
